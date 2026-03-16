@@ -1,0 +1,8 @@
+langchain
+sentence-transformers
+faiss-cpu
+numpy
+pdf2image
+pypdf
+pydantic
+flask
